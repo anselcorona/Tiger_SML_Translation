@@ -1,0 +1,5 @@
+MOVE(
+ TEMP t101,
+ BINOP(MUL,
+  CONST 5,
+  CONST 0))

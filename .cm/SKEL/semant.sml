@@ -1,0 +1,2 @@
+Skeleton 5
+d8f7d"Int"d"List"Cd"Temp"d"General"ä¢Absyn"ä¢Types"d"ErrorMsg"Nad"A"gp1ÿ#ad"T"gp1ÿ+Cad"E"gp1d"Envir"ad"S"gp1d"Symbol"ad"Trans"gp1d"Translate"aã¢SEM"è0ad"Semant"jh1ad"MySet"jÿ‚gp1e"ListSetFn"gp1ÿ‚N
